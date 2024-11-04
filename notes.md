@@ -5,6 +5,13 @@ subtitle: "Presentation - User Experience (UX) Design and Management"
 date: 2024-11-04 08:00
 ---
 
+# Presentation
+
+Please find the interactive version of the presentation here: [https://lucah.tech/prototyping/index.html](https://lucah.tech/prototyping/index.html)
+
+Or scan the following QR code: ![QR code for the
+presentation](./assets/qrcode.gif)
+
 ## Motivation
 
 - large field / may become its own course in the coming years
