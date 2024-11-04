@@ -15,6 +15,10 @@ Or scan the following QR code:
 
 ![QR code for the presentation](./assets/qrcode.gif)
 
+Or see the source-code on GitHub:
+
+[https://github.com/quoteme/prototyping](https://github.com/quoteme/prototyping)
+
 # Presentation notes
 
 ## Motivation
