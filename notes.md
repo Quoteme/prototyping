@@ -5,12 +5,17 @@ subtitle: "Presentation - User Experience (UX) Design and Management"
 date: 2024-11-04 08:00
 ---
 
-# Presentation
+# Presentation website
 
-Please find the interactive version of the presentation here: [https://lucah.tech/prototyping/index.html](https://lucah.tech/prototyping/index.html)
+Please find the interactive version of the presentation here:
 
-Or scan the following QR code: ![QR code for the
-presentation](./assets/qrcode.gif)
+[https://lucah.tech/prototyping/index.html](https://lucah.tech/prototyping/index.html)
+
+Or scan the following QR code:
+
+![QR code for the presentation](./assets/qrcode.gif)
+
+# Presentation notes
 
 ## Motivation
 
@@ -79,7 +84,6 @@ presentation](./assets/qrcode.gif)
 
   - "To find out _improvement areas_ prior to release" (`03_UXDM.pdf`)
     - ![Part 3/4 of the UCD process](./assets/UCD_base.png)
-      - ![Formative_effects_of_prototyping](./assets/Tullis_and_Albert_chapter_3_formative.png)
 
 - Key Questions & Answers:
   - **What usability issues block user goals?**  
@@ -101,7 +105,6 @@ presentation](./assets/qrcode.gif)
 
   - "To determine the _quality of UX_ against a set of criteria" (`03_UXDM.pdf`)
     - ![Part 4/4 of the UCD process](./assets/UCD_base.png)
-      - ![Summative_effects_of_prototyping](./assets/Tullis_and_Albert_chapter_3_summative.png)
 
 - Key Questions & Answers:
   - **Did we meet UX/usability goals?**  
