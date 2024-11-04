@@ -71,7 +71,7 @@ date: 2024-11-04 08:00
 - reminder:
 
   - "To find out _improvement areas_ prior to release" (`03_UXDM.pdf`)
-    - ![Part 1/4 of the UCD process](./assets/UCD_base.png)
+    - ![Part 3/4 of the UCD process](./assets/UCD_base.png)
       - ![Formative_effects_of_prototyping](./assets/Tullis_and_Albert_chapter_3_formative.png)
 
 - Key Questions & Answers:
@@ -109,8 +109,7 @@ date: 2024-11-04 08:00
 ## Applications of prototypes
 
 - comparing designs
-  - ![Albert and Tullis -
-3.3.10](./assets/why_prototypes_-_comparing_designs.png)
+  - ![Albert and Tullis - 3.3.10](./assets/why_prototypes_-_comparing_designs.png)
 - online surveys
   - ![Albert and Tullis - 3.4.3](./assets/why_prototypes_-_online_surveys.png)
   - ![click heat map](./assets/why_prototypes_-_click_heat_map.png)[^3]

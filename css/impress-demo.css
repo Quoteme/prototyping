@@ -900,3 +900,117 @@ a:focus {
   margin-top: 20px;
   opacity: 0.6;
 }
+
+.formative_and_summative_effects img{
+  width: 1000px;
+  margin-left: -100px;
+}
+
+#formative_and_summative_base {
+  opacity: 1;
+}
+
+#formative {
+  opacity: 0;
+}
+
+#formative.active {
+  opacity: 1;
+}
+
+#summative {
+  opacity: 0;
+}
+
+#summative.active {
+  opacity: 1;
+}
+
+.step blockquote {
+  font-size: 40px;
+  line-height: 1.2;
+  margin-top: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.step blockquote:before {
+  content: open-quote;
+}
+
+.step blockquote:after {
+  content: close-quote;
+}
+
+.step cite {
+  display: block;
+  font-size: 30px;
+  line-height: 1.2;
+  opacity: 0.6;
+  text-align: right;
+}
+
+.step code {
+  font-family: "Courier New", Courier, monospace;
+}
+
+#formative_details li {
+  margin-top: 18px;
+}
+
+#applications {
+  font-size: 70px;
+  line-height: 1.2; 
+}
+
+.application_list {
+  opacity: 1 !important;
+}
+
+.application_list > img{
+  width: 800px;
+}
+
+.application_list ul {
+  margin-left: 80px;
+}
+
+.application_list .subtitle {
+  font-size: 30px;
+  text-align: right;
+  line-height: 1.2;
+  margin-top: 20px;
+  opacity: 0.6;
+}
+
+#personal_anecdote {
+  font-size: 90px;
+  line-height: 1.2;
+}
+
+#personal_anecdote .subtitle {
+  display: block;
+  font-size: 30px;
+  line-height: 1.2;
+  opacity: 0.6;
+}
+
+.anecdote li {
+  margin-left: 80px;
+}
+
+.anecdote .subtitle {
+  display: block;
+  font-size: 30px;
+  text-align: right;
+  line-height: 1.2;
+  margin-top: 20px;
+  opacity: 0.6;
+}
+
+#sources {
+  font-size: 25px;
+  line-height: 1;
+}
