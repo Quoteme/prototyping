@@ -138,22 +138,22 @@ Or see the source-code on GitHub:
 
 ### Märchenstunde dazu
 
-- Prototyp eines Strommessgeräts
+- Prototype of a high-voltage detector
 - Phase 2/4 UCD
-  - Diskussion über LED Design
+  - Discussion with developers
     - ![LEDs](./assets/why_prototypes_-_high_voltage_detector.png)
-    - Wenn an, gemessenes Objekt lebensgefährlich
-  - Entwickler _wollten_ LED _nicht ändern_
+    - If wrong LED is on, user could die
+  - Developers did _not want to change_ LEDs
 - Phase 3/4 UCD
-  - Prototyp gebaut
-    - **Simuliert** 20% Wahrscheinlichkeit, messendes Objekt lebensgefährlich
+  - Prototyp has been build
+    - **Simulates** 20% probability, measured object is high voltage
 - Phase 4/4 UCD
-  - 100 Teilnehmer
-  - Einer hat LEDs falsch interpretiert
+  - 100 Participants
+  - One misinterpretation
 
 #### Resultat
 
-Entwickler wurden überzeugt, LED zu ändern[^5]
+Developers got convinced to change LEDs
 
 ---
 
